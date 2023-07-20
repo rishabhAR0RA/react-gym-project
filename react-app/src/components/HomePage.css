@@ -1,0 +1,27 @@
+.about-img {
+    width: 31rem;
+}
+
+.footer-social-links a,
+.card-social-links a{
+    width: 2.5rem;
+}
+
+.footer-container {
+    background: linear-gradient(rgba(0,0,0,.8) ,rgba(0,0,0,.8)), url(../../public/image/background.jpg) !important;
+    background-position-x: 0%, 0% !important;
+    background-position-y: 0%, 0% !important;
+    background-repeat: repeat, repeat !important;
+    background-size: auto, auto !important;
+    background-position: top;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.time-table a {
+    color: #e31c25;
+}
+
+.time-table a:hover {
+    color: #9f141a;
+}
